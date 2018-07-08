@@ -27,8 +27,8 @@ avatar: "/img/og_claudia.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: "index"
-  About Me: "about-me"
+  Home: ""
+  About Me: "aboutme"
   #Datasets: "datasets"
   Projects: "projects"
  
