@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Hi, I'm You Hao
-subtitle: welcome to my personal page
+title:  Hao You
+subtitle: Master of Degree
 ---
 ## Education
 School of Mechanical Engineering, **Shanghai Jiao Tong University**                     China
