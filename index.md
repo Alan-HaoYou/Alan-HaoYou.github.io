@@ -4,10 +4,10 @@ title:  Hao You
 subtitle: Master of Degree
 ---
 ## Education
-School of Mechanical Engineering, **Shanghai Jiao Tong University**                     China
-M.S Degree in XXXXX                                                 09/2015-Present
-School of Naval Architecture, Ocean & Civil Engineering, **Shanghai Jiao Tong University**   China
-B.S Degree in XXXXXX                                               09/2011-07/2015
+-School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
+-M.S Degree in power engineering                                                09/2015-03/2018 
+-School of Naval Architecture, Ocean & Civil Engineering, **Shanghai Jiao Tong University**   China
+-B.S Degree in marine engineering                                               09/2011-07/2015
 
 ## Publications
 - Y.L. Hu, **H. You**, W. Wang. “Non-linera deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure”. 杂志，刊号
