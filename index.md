@@ -10,10 +10,11 @@ subtitle: Master of Degree
 -B.S Degree in marine engineering                                               09/2011-07/2015
 
 ## Publications
-- Y.L. Hu, **H. You**, W. Wang. “Non-linera deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure”. 杂志，刊号
-- **H. You**, X.T Chen, W. Wang. “Topology optimization of rectangular fins”. 杂志。刊号
-- **H. You**, W. Wang. “Topology optimization of the micro channel within plate heat pipe”. Academic Journal of Xi'an Jiaotong University，刊号
-- **H. You**, X.Y. Xu, W. Wang. “Topological design of heat dissipating structure with convective heat transfer”. 杂志. (manuscript)
+- **H. You**, X.Y Xu, W. Wang. Strict Discrete Conversion Methods for Gray-Scale Elements in Topology Optimization of Heat Conduction Structures. (manuscript)
+- **H. You**, W. Wang. (2018). 2D Design of Channels in Vapor Chamber with Topological Optimization. 2018 17th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 296	- 301.DOI http://xueshu.baidu.com/s?wd=paperuri%3A%2882b0aeef432866355c7374ce26170105%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0924424717303527&ie=utf-8&sc_us=92954572035011840
+- Y.L Hu, **H. You**, W. Wang. (2017). Non-linear deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure. Sensors & Actuators A Physical, 268. DOI https://ieeexplore.ieee.org/document/8419488/
+- **H. You**, X.Y Xu, W. Wang. Automata Topology Optimization Method for SIMP Gray-Scale Elements. Journal of Computer-Aided Design & Computer Graphics (in chinese)（Sumbitted）
+- **H. You**, X.T. Chen, W. Wang. Topology Optimization of Natural Convective Rectangular Fins. Chinese Journal of Refrigeration Technology.(in chinese) (Preprint)
 
 ## Research Experiences
 **Institute of Refrigeration and Cryogenics**
