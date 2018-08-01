@@ -25,7 +25,7 @@ Course: Engineering Thermodynamics. Instructor: Dr. W. Wang                  201
 - Created problem set solution and homework grading rubric
 - Held weekly homework help session and graded term projects
  
-Course: Principle of Sensing Device . Instructor: Dr. W. Wang                2016-2017
+Course: Measurement principles and technologies . Instructor: Dr. W. Wang                2016-2017
 - Displayed laboratory facilities to undergraduate students
 - Supervised the students to do course work about designing facilities
 
