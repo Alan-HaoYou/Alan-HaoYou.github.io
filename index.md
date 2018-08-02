@@ -30,6 +30,6 @@ Course: Measurement principles and technologies . Instructor: Dr. W. Wang       
 - Supervised the students to do course work about designing facilities
 
 ## Hobbies
-- work out: Gym, Running, Swimming, Biking
+- Workout: Gym, Running, Swimming, Biking
 - Programming: MATLAB, C/C++, Vbasic, Lisp 
  
