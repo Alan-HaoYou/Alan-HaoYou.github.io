@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  Hao You
-subtitle: Master of Degree
+subtitle: Welcome to my personal website
 ---
 ## Research Interests
 
