@@ -35,7 +35,7 @@ Course: Measurement principles and technologies . Instructor: Dr. W. Wang       
 <div class="row">
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
     <div style="height: 270px;overflow: hidden;">
-     <img src="../img/001.jpg">
+     <img src="../img/001.jpg" style="-webkit-transform: translateY(-10%);-ms-transform: translateY(-10%);-moz-transform: translateY(-10%);">
     </div>
   </div>
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
