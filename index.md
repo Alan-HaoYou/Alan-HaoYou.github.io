@@ -34,7 +34,9 @@ Course: Measurement principles and technologies . Instructor: Dr. W. Wang       
 - Programming: MATLAB, C/C++, Vbasic, Lisp
 <div class="row">
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-    <img src="../img/001.jpg" height="20px"> 
+    <div style:"height: 270px;overflow: hidden;">
+     <img src="../img/001.jpg" height="20px">
+    </div>
   </div>
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
     <img src="../img/002.jpg" height="20px"> 
