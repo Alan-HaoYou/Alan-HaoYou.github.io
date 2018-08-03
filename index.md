@@ -31,5 +31,12 @@ Course: Measurement principles and technologies . Instructor: Dr. W. Wang       
 
 ## Hobbies
 - Workout: Gym, Running, Swimming, Biking
-- Programming: MATLAB, C/C++, Vbasic, Lisp 
- 
+- Programming: MATLAB, C/C++, Vbasic, Lisp
+<div class="row">
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <img src="../img/001.jpg" height="20px"> 
+  </div>
+  <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+    <img src="../img/002.jpg" height="20px"> 
+  </div>
+</div>
