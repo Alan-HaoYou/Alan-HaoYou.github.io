@@ -7,10 +7,10 @@ subtitle: Welcome to my personal website
 
 
 ## Education
--School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
--M.S Degree in power engineering                                                09/2015-03/2018 
--School of Naval Architecture, Ocean & Civil Engineering, **Shanghai Jiao Tong University**   China
--B.S Degree in marine engineering                                               09/2011-07/2015
+- School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
+M.S Degree in power engineering                                                09/2015-03/2018 
+- School of Naval Architecture, Ocean & Civil Engineering, **Shanghai Jiao Tong University**   China
+B.S Degree in marine engineering                                               09/2011-07/2015
 
 ## Publications
 - **H. You**, X.Y Xu, W. Wang. Strict Discrete Conversion Methods for Gray-Scale Elements in Topology Optimization of Heat Conduction Structures. (Manuscript)
