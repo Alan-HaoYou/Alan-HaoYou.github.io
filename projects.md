@@ -1,0 +1,13 @@
+---
+layout: projects
+title: Projects
+projects:
+  - title: aaa
+    content: >
+      I was responsible for the following:
+      - Review of contracts
+      - Hiring
+      - Accounting
+    images:
+      - https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ=
+---
