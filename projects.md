@@ -1,5 +1,4 @@
 ---
----
 layout: projects
 title: Projects
 projects:
@@ -19,3 +18,5 @@ projects:
     Stirling engine - Testing the engine and improve it - Writing the report \n"
   images:
   - https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ=
+
+---
