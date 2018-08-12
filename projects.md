@@ -4,10 +4,11 @@ title: Projects
 projects: 
   - 
     content: |
-        <p>Project Aim：Design and manufacture an automatic device  I was responsible for the following:
+        <p>Project Aim：Design and manufacture an automatic device <br> 
+        I was responsible for the following:
         <ul><li>Drawing some parts of the device with Solidworks</li>
         <li>Programming the automatic running program of stepper motor in MCU </li>
-        <li>Debugging/li></ul></p>
+        <li>Debugging</li></ul></p>
     title: "Dynamic design of machinery （Graduate）"
     video: "https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ="
   - 
