@@ -11,12 +11,7 @@ projects:
         <li>Debugging</li></ul></p>
     title: "Dynamic design of machinery （Graduate）"
     video: |
-        <iframe class="banner-video"
-        src="http://player.youku.com/embed/093655ea-0791-4610-87d5-a84950dabf54"
-        scrolling=no
-        frameborder=0
-        allowfullscreen="true"
-        webkitallowfullscreen="true">
+        "https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ="
   - 
     content: |
         <p>I was responsible for the following:
