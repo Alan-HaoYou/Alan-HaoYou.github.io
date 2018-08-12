@@ -18,7 +18,6 @@ projects:
         allowfullscreen="true"
         webkitallowfullscreen="true">
   - 
-    content: "I was responsible for the following: -   -  - Writing the report \n"
     content: |
         <p>I was responsible for the following:
         <ul><li>Recording the vibration of Chinese zither by laser vibrometer</li>
