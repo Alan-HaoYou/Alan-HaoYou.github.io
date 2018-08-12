@@ -10,8 +10,10 @@ projects:
         <ul><li>Drawing some parts of the device with Solidworks</li>
         <li>Programming the automatic running program of stepper motor in MCU </li>
         <li>Debugging</li></ul></p>
-    video: |
-        "https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ="
+    images: 
+      - "/img/1.jpg"
+      - "/img/2.jpg"
+      - "/img/3.jpg"
   - 
     content: |
         <h3>The improvment of Chinese zither's strings (Undergraduate)</h3>
@@ -20,7 +22,9 @@ projects:
         <li>Modal analysis with Labview SignalExpress</li>
         <li>Writing the report</li></ul></p>
     images: 
-      - "https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ="
+      - "/img/4.jpg"
+      - "/img/5.jpg"
+      - "/img/6.jpg"
   - 
     content: |
         <h3>Design and manufacture a Stirling engine (Undergraduate)</h3>
@@ -29,5 +33,7 @@ projects:
         <li>Testing the engine and improve it </li>
         <li>Writing the report</li></ul></p>
     images: 
-      - "https://nos.netease.com/nim/NDI2MjUzMg==/bmltYV82ODAzMTU5MzdfMTUxNDM2NzE3MjM1OF80NWRmMTExNC0zMGYxLTQ0M2YtOGM0ZC00YTJhYjcyMzFjYWQ="
+      - "/img/图片1.jpg"
+      - "/img/图片2.jpg"
+      - "/img/图片3.jpg"
 ---
