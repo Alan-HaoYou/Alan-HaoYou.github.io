@@ -4,7 +4,7 @@ title: Projects
 projects: 
   - 
     content: |
-        <h3>Dynamic design of machinery (Graduate)</h3>
+        <h3 style="margin-top: 0;">Dynamic design of machinery (Graduate)</h3>
         <p>Project Aim：Design and manufacture an automatic device <br> 
         I was responsible for the following:
         <ul><li>Drawing some parts of the device with Solidworks</li>
@@ -16,7 +16,7 @@ projects:
       - "/img/3.jpg"
   - 
     content: |
-        <h3>The improvment of Chinese zither's strings (Undergraduate)</h3>
+        <h3 style="margin-top: 0;">The improvment of Chinese zither's strings (Undergraduate)</h3>
         <p>I was responsible for the following:
         <ul><li>Recording the vibration of Chinese zither by laser vibrometer</li>
         <li>Modal analysis with Labview SignalExpress</li>
@@ -27,7 +27,7 @@ projects:
       - "/img/6.jpg"
   - 
     content: |
-        <h3>Design and manufacture a Stirling engine (Undergraduate)</h3>
+        <h3 style="margin-top: 0;">Design and manufacture a Stirling engine (Undergraduate)</h3>
         <p>I was responsible for the following:
         <ul><li>Manufacturing the parts for the Stirling engine</li>
         <li>Testing the engine and improve it </li>
