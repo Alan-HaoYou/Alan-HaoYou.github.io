@@ -19,7 +19,9 @@ projects:
         In this paper, the topology optimization method is conducted to aid the design of the fluid channels within a vapor chamber. To analyze the temperature uniformity of a vapor chamber, the channels were simplified as branches with high-conductivity materials, the optimization aimed to minimize the temperature variance in a plate with several high-conductivity branches. Numerical simulations were conducted to analyze the influence of material thermal conductivity ratio and Bi number on the topology of the fluid channel structure. Results showed that the design of topology optimization was feasible and effective.</p>
     images: 
       - "/img/2-1.jpg"
-    
+      - "/img/2-2.jpg"
+      - "/img/2-3.jpg"
+      - "/img/2-4.jpg"
   - 
     content: |
         <h3 style="margin-top: 0;">Automata Topology Optimization Method for SIMP Gray-Scale Elements</h3>
@@ -50,5 +52,7 @@ projects:
         <p>Abstract:<br>
         Analytical non-linear equations are formulated to predict the deflection of a circular diaphragm-type piezoactuator, which consists of a passive layer, a bonding layer and a PZT layer. Previous similar analytical solutions presented in the literature are based on thin plates with small deflections (linear problem), however the linear solutions fail to predict the deflection of the piezoactuator when the driven loads, such as voltage and pressure loads, are large. In this research, a non-linear analytical solution for the piezoactuator deflection under loads of voltage and pressure is derived using the principal of minimum energy and the Rayleigh-Ritz method. Each of the three layers in the piezoactuator is considered as an individual layer. The energy associated with the solution includes elastic potential energy of the deformed piezoactuator, electric potential energy in the piezodisc, and the work done by the uniform pressure force. The proposed non-liner solution is validated via static deflection measurements, and it approves that the non-linear analytical results are found to be in a good agreement with the measurements while the linear solution is invalid when the loads are large. Based on the non-linear equations, the effects of the piezoactuator dimensions and the imposed loads on the actuator performance (stroke volume) are also investigated.</p>
     images: 
-      - "/img/图片1.jpg"
+      - "/img/6-1.jpg"
+      - "/img/6-2.jpg"
+      - "/img/6-3.jpg"
 ---
