@@ -20,6 +20,7 @@ layout: default
 
 {% for project in page.projects %}
   {% assign id = "carousel-generic-" | append: {{forloop.index0}} %}
+  <br><br>
   <div class="row">
     <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
       {{ project.content }}
