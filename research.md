@@ -26,7 +26,7 @@ projects:
         <p>Abstract:<br>
         Solid Isotropic Material with Penalization (SIMP) topology optimization method is one of the structure topology optimization methods, which could be used for structure optimization on heat conduction and convective heat transfer with a certain structure material. However, some gray-scale elements exist in the results, which could make the solid boundaries unclear and bring uncertainty in subsequent simulation and manufacture. The tradi-tional threshold filtering method could be used to obtain strict blank-and-white optimization results, but it is al-ways coupled with the structure volume varying in topology optimization. In this paper, the SIMP with automata topology optimization method is conducted which introduces mutual interaction between two gray-scale ele-ments. Therefore, the pseudo density could be transmitted among elements and converge near the high pseudo density elements, the gray-scale elements could be eliminated, and the material volume could keep a constant. By comparing the results by automata topology optimization method with the results by the classical SIMP method, the validity and applicability of the proposed method could be verified, moreover, the hybrid automata topology optimization method could avoid corner-joint between two high pseudo density elements through a sin-gle point.</p>
     images: 
-      - "/img/3-1.jpg"
+      - "/img/3-1.png"
     
   -   
     content: |
@@ -42,7 +42,7 @@ projects:
         <p>Abstract:<br>
         To cope with the increasingly serious problem of high heat flow density of electronic chips, the internal structure of flat heat pipe developed to complex structure, in order to obtain more uniform temperature field distribution and improve the efficiency of heat pipe.The uniform temperature of evaporating surface of flat heat pipe is optimized under the condition of finite material by using topological optimization method.Based on SIMP density method, USES the temperature variance as the objective function, in order to design a domain more uniform temperature distribution in the goal to establish topology optimization of steady-state heat conduction model, the sensitivity of the objective function is derived expressions, are calculated and analyzed the optimized topology example, different high and low thermal conductivity material example and different heat source position calculation, obtain the optimal topology and the distribution of temperature field.</p>
     images: 
-      - "/img/5-1.jpg"
+      - "/img/5-1.png"
   
   -   
     content: |
