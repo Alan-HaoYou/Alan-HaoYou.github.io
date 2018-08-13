@@ -410,3 +410,10 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
+
+/* --- Custom --- */
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img {
+  line-height: 1;
+  width: 100%;
+}
