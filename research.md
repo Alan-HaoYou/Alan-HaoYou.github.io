@@ -41,7 +41,16 @@ projects:
       - "/img/图片3.jpg"
      -   
      content: |
-        <h3>Topology Optimization of Natural Convective Rectangular Fins</h3>
+        <h3>Topology optimization of a deep wick structure flat heat pipe</h3>
+        <p>Abstract:
+        To cope with the increasingly serious problem of high heat flow density of electronic chips, the internal structure of flat heat pipe developed to complex structure, in order to obtain more uniform temperature field distribution and improve the efficiency of heat pipe.The uniform temperature of evaporating surface of flat heat pipe is optimized under the condition of finite material by using topological optimization method.Based on SIMP density method, USES the temperature variance as the objective function, in order to design a domain more uniform temperature distribution in the goal to establish topology optimization of steady-state heat conduction model, the sensitivity of the objective function is derived expressions, are calculated and analyzed the optimized topology example, different high and low thermal conductivity material example and different heat source position calculation, obtain the optimal topology and the distribution of temperature field.  
+    images: 
+      - "/img/图片1.jpg"
+      - "/img/图片2.jpg"
+      - "/img/图片3.jpg"
+       -   
+     content: |
+        <h3>Topology optimization of a deep wick structure flat heat pipe</h3>
         <p>Abstract:
         To cope with the increasingly serious problem of high heat flow density of electronic chips, the internal structure of flat heat pipe developed to complex structure, in order to obtain more uniform temperature field distribution and improve the efficiency of heat pipe.The uniform temperature of evaporating surface of flat heat pipe is optimized under the condition of finite material by using topological optimization method.Based on SIMP density method, USES the temperature variance as the objective function, in order to design a domain more uniform temperature distribution in the goal to establish topology optimization of steady-state heat conduction model, the sensitivity of the objective function is derived expressions, are calculated and analyzed the optimized topology example, different high and low thermal conductivity material example and different heat source position calculation, obtain the optimal topology and the distribution of temperature field.  
     images: 
