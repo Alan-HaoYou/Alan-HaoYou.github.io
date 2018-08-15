@@ -26,11 +26,11 @@ B.S Degree in marine engineering                                               0
 
 ## Publications
 - **H. You**, X.Y Xu, W. Wang. Strict Discrete Conversion Methods for Gray-Scale Elements in Topology Optimization of Heat Conduction Structures. (Manuscript)
-- **H. You**, W. Wang. (2018). 2D Design of Channels in Vapor Chamber with Topological Optimization. 2018 17th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 296	- 301. DOI 
+- **H. You**, W. Wang. (2018). 2D Design of Channels in Vapor Chamber with Topological Optimization. 2018 17th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 296	- 301. DOI https://ieeexplore.ieee.org/document/8419488/
 - **H. You**, X.Y Xu, W. Wang. Automata Topology Optimization Method for SIMP Gray-Scale Elements. Journal of Computer-Aided Design & Computer Graphics (in chinese)（Sumbitted）
 - **H. You**, X.T. Chen, W. Wang. (2018). Topology Optimization of Natural Convective Rectangular Fins. Chinese Journal of Refrigeration Technology.(in chinese) (Preprint)
-- **H. You**, W. Wang. (2017). Topology optimization of a deep wick structure flat heat pipe. 15th national heat pipe conference in Chong Qing.(in chinese) (Best student paper award finalist) DOI
-- Y.L Hu, **H. You**, W. Wang. (2017). Non-linear deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure. Sensors & Actuators A Physical, 268. DOI 
+- **H. You**, W. Wang. (2017). Topology optimization of a deep wick structure flat heat pipe. 15th Chinese Heat Pipe Conference in Chong Qing.(in chinese) (Best student paper award finalist) DOI http://news.cqu.edu.cn/newsv2/show-14-9387-1.html
+- Y.L Hu, **H. You**, W. Wang. (2017). Non-linear deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure. Sensors & Actuators A Physical, 268. DOI https://www.sciencedirect.com/science/article/pii/S0924424717303527
 
 ## Teaching Assistant Experiences
 Course: Engineering Thermodynamics. Instructor: Dr. W. Wang                  2016-2017
