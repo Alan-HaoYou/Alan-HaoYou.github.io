@@ -29,8 +29,8 @@ avatar: "/img/微信图片_20180802091056.png"
 navbar-links:
   Home: ""
   Research: "research"
-  #Datasets: "datasets"
-  Projects: "projects"
+  Select Course Projects: "projects"
+  Work Experience: "expericence"
  
 # --- Footer options --- #
 
