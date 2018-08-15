@@ -3,8 +3,20 @@ layout: page
 title:  Hao You
 subtitle: Welcome to my personal website
 ---
-## Research Interests
+## Primary Research Area
+Heat and mass transfer
 
+## Research Areas
+Topology optimization for cooling structure
+Gray-scale elements in topology optimization 
+Topology optimization for piezoactuator
+Conbustion of emulsified fuel
+
+## Research Interests
+Multiphysics optimization theory 
+Machine learning
+Electronic cooling
+Power system
 
 ## Education
 - School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
