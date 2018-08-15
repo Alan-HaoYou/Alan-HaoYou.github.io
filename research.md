@@ -66,6 +66,6 @@ projects:
          To cast light on the reasons of soot reduction, non- evaporative and evaporative spray behaviors of diesel and emulsified fules were investigated in a high temperature high pressure constant volume vessel (HTHP-CVV). Schilrien photography system was established to study the macro spray characteristics, such as liquid penetration and cone angle, both at room and high temperature. Besides, chemiluminescence of diesel and emulsion falme was recorded by high-speed camera.</p>
     images: 
       - "/img/7-1.gif"
-      - "/img/7-2.jpg"
-      - "/img/7-3.jpg"
+      - "/img/7-2.gif"
+      - "/img/7-3.gif"
 ---
