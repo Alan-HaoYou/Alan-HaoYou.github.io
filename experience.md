@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 ---
-<!-- carousel -->
+<!-- carousel 走马灯开始 -->
 <div id="carousel-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
   <ol class="carousel-indicators">
@@ -36,6 +36,7 @@ title: Work Experience
     <span class="sr-only">Next</span>
   </a>
 </div>
+<!-- carousel 走马灯结束 -->
 
 ### Career：technology engineer（energy and power）
 I was responsible for the following:
