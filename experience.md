@@ -37,11 +37,11 @@ title: Work Experience
   </a>
 </div>
 
-<h3 style="margin-top: 0;">Career：technology engineer（energy and power）</h3>
+### Career：technology engineer（energy and power）
 I was responsible for the following:
-<ul><li>System design for WTE plant</li>
-<li>Coding program for WTE plant design based on VB and Lisp</li>
-<li>Aiding bidding </li></ul></p>
+- System design for WTE plant
+- Coding program for WTE plant design based on VB and Lisp
+- Aiding bidding 
 
 <div class="row">
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
