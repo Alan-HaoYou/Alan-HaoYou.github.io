@@ -26,11 +26,11 @@ B.S Degree in marine engineering                                               0
 
 ## Publications
 - **Hao You**, Xiaoying Xu, Wen Wang. "Strict Discrete Conversion Methods for Gray-Scale Elements in Topology Optimization of Heat Conduction Structures", (2018). (Manuscript)
-- **Hao You**, Wen Wang. "2D Design of Channels in Vapor Chamber with Topological Optimization", 17th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 296	- 301(2018). [DOI](https://ieeexplore.ieee.org/document/8419488/)
+- **Hao You**, Wen Wang. "2D Design of Channels in Vapor Chamber with Topological Optimization", 17th IEEE Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems (ITherm), 296	- 301(2018). <a href="https://ieeexplore.ieee.org/document/8419488/" target="_blank">DOI</a>
 - **Hao You**, Xiaoying Xu, Wen Wang. "Automata Topology Optimization Method for SIMP Gray-Scale Elements, Journal of Computer-Aided Design & Computer Graphics",(2017).(in chinese) （Sumbitted）
 - **Hao You**, Xiting Chen, Wen Wang. "Topology Optimization of Natural Convective Rectangular Fins", Chinese Journal of Refrigeration Technology, (2017).(in chinese) (Preprint)
-- **Hao You**, Wen Wang. "Topology optimization of a deep wick structure flat heat pipe", 15th Chinese Heat Pipe Conference in Chong Qing,(2017).(in chinese) (Best student paper award finalist) [DOI](http://news.cqu.edu.cn/newsv2/show-14-9387-1.html)
-- Yuanlin Hu, **Hao You**, Wen Wang. "Non-linear deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure", Sensors & Actuators A Physical, 268(2017). [DOI](https://www.sciencedirect.com/science/article/pii/S0924424717303527)
+- **Hao You**, Wen Wang. "Topology optimization of a deep wick structure flat heat pipe", 15th Chinese Heat Pipe Conference in Chong Qing,(2017).(in chinese) (Best student paper award finalist) <a href="http://news.cqu.edu.cn/newsv2/show-14-9387-1.html" target="_blank">DOI</a>
+- Yuanlin Hu, **Hao You**, Wen Wang. "Non-linear deflection of a circular diaphragm-type piezoactuator under loads of voltage and pressure", Sensors & Actuators A Physical, 268(2017). <a href="https://www.sciencedirect.com/science/article/pii/S0924424717303527" target="_blank">DOI</a>
 
 ## Teaching Assistant Experiences
 Course: Engineering Thermodynamics. Instructor: Dr. W. Wang                  2016-2017
