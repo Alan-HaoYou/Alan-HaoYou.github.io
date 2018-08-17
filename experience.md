@@ -38,7 +38,7 @@ title: Work Experience
 </div>
 <!-- carousel 走马灯结束 -->
 
-### Career：technology engineer（energy and power）
+### Job Title：technology engineer（energy and power）
 I was responsible for the following:
 - System design for WTE plant
 - Coding program for WTE plant design based on VB and Lisp
