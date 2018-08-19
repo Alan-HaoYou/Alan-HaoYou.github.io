@@ -40,7 +40,7 @@ title: Work Experience
 
 ### Job Title：technology engineer（energy and power）
 I was responsible for the following:
-- System design for WTE plant
+- System design for waste to energy（WTE）plant
 - Coding program for WTE plant design based on VB and Lisp
 - Aiding bidding 
 
