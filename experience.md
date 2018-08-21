@@ -49,6 +49,6 @@ I was responsible for the following:
     <img src="../img/119.jpg"> 
   </div>
   <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
-    <img src="../img/111.jpg"> 
+    <img src="../img/wahaha.jpg"> 
   </div>
 </div>
