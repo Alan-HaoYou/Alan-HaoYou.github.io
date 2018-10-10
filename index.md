@@ -8,15 +8,14 @@ Heat and mass transfer
 
 ## Research Areas
 - Topology optimization for cooling structure
-- Gray-scale elements in topology optimization 
-- Topology optimization for piezoactuator
+- Heat and mass transfer 
 - Conbustion of emulsified fuel
 
 ## Research Interests
-- Multiphysics optimization theory 
-- Machine learning
-- Electronic cooling
-- Power system
+- Multiphysics and multiscale optimization theory 
+- Optimization for thermal devices
+- Machine learning for topology optimization
+- CFD calculating
 
 ## Education
 - School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
