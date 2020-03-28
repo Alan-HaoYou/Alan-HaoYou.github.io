@@ -7,15 +7,11 @@ subtitle: Welcome to my personal website
 Heat and mass transfer
 
 ## Research Areas
-- Topology optimization for cooling structure
-- Heat and mass transfer 
-- Conbustion of emulsified fuel
+- Topology optimization for heat exchangers
 
 ## Research Interests
 - Multiphysics and multiscale optimization theory 
-- Optimization for thermal devices
-- Machine learning for topology optimization
-- CFD calculating
+- CFD simulations
 
 ## Education
 - School of Mechanical Engineering, **Shanghai Jiao Tong University**                          China
