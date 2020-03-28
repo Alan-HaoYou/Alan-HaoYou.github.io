@@ -7,7 +7,7 @@ subtitle: Welcome to my personal website
 Heat and mass transfer
 
 ## Research Areas
-- Topology optimization for heat exchangers
+- Structural optimization for heat exchangers
 
 ## Research Interests
 - Multiphysics and multiscale optimization theory 
